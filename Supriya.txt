@@ -1,0 +1,12 @@
+-------------BIO-DATA-----------------
+Name : Supriya S
+DOB  : 17-jul-2001
+Address : Bangalore
+Education :
+-10th    -> Bethel India Mission School  per% :91
+-12th    -> Vision PU College            per% :92
+-BE(CSE) -> Govt. S K S J T Institute    CGPA :7.9
+Want to work in Deloitte company
+
+------Feed-back on Git class-----------
+Excellent!!!
